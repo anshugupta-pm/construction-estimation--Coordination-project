@@ -3,7 +3,7 @@ Mock project for renovation estimation and coordination
 # 🏗️ Construction Estimation & Coordination – Mock Project
 
 **By Anshu Gupta**  
-This mock project was created to showcase my transferable skills in coordination, cost estimation, and stakeholder communication relevant to the construction industry.
+I created this mock renovation project to show how I’d approach project coordination and cost estimating—even though I’m new to construction. It’s a small, simple project, but it helped me understand how tasks, timelines, and costs work together in real-world settings.
 
 ---
 
@@ -65,4 +65,6 @@ This mock project was created to showcase my transferable skills in coordination
 
 ---
 
-📌 *This mock project highlights my readiness to support real-world construction teams as a Junior Project Coordinator or Estimator.*
+📌 *This was a great way for me to bridge my experience in digital project coordination with the construction world. I’m excited to keep learning and apply this hands-on.*
+
+Feel free to connect with me on LinkedIn if you’d like to chat more about this project or my interest in construction project coordination
