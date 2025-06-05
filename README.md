@@ -1,4 +1,4 @@
-# Construction-Estimation--Coordination-Project
+# Construction-Estimation-Project
 Mock project for renovation estimation and coordination
 # 🏗️ Construction Estimation & Coordination – Mock Project
 
